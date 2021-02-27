@@ -17,6 +17,14 @@
 #| security_research > understanding of how things (work | are implemented)
 #| good project for starting with a more complex home network
 
+#> why debian 4 testing
+#| debian is (free & opensource) software and will always be 100% free
+#| debian is the largest community-run linux distribution
+#| a lot of linux distributions are debian-based, eg ubuntu,kali,mint
+#| debian runs on nearly every processor archtecture, thus r0.sh runs on nearly every hardware
+#| ideal for servers, because it's extrem stable
+#| debian names their version after toy story names
+
 #> research
 #| !!! why static route to next hop is better, as static route to (broadcast | local) interface:
 #| https://networkengineering.stackexchange.com/questions/7220/static-routes-numerical-next-hop-vs-interface
@@ -37,6 +45,9 @@
 #| 
 #| 
 
+#> INSTALATION & RUN
+#| type into linux terminal:
+cd /opt;git clone https://github.com/111tux/r0.sh;cd ./r0.sh;chmod +x ./r0.sh;./r0.sh
 
 #> GO GO GO!
 #| update,upgrade&install
