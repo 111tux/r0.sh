@@ -16,6 +16,7 @@
 #| setup network from scratch
 #| security_research > understanding of how things (work | are implemented)
 #| good project for starting with a more complex home network
+#| cheaper than commercial routers
 
 #> why debian 4 testing
 #| debian is (free & opensource) software and will always be 100% free
