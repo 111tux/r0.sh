@@ -18,13 +18,13 @@
 #| good project for starting with a more complex home network
 #| cheaper than commercial routers
 
-#> why debian 4 testing
+#> why debian
 #| debian is (free & opensource) software and will always be 100% free
 #| debian is the largest community-run linux distribution
 #| a lot of linux distributions are debian-based, eg ubuntu,kali,mint
 #| debian runs on nearly every processor archtecture, thus r0.sh runs on nearly every hardware
 #| ideal for servers, because it's extrem stable
-#| debian names their version after toy story names
+#| debian names their versions after toy story names
 
 #> research
 #| !!! why static route to next hop is better, as static route to (broadcast | local) interface:
