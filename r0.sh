@@ -1,13 +1,13 @@
 #!/bin/sh
 
-#| name			r0.sh
+#| name		r0.sh
 #| version      0.1 alpha
-#| author		111tux
-#| what			sh script for building own linux router
+#| author	111tux
+#| what		sh script for building own linux router
 #| howto run	chmod +x ./r0.sh;./r0.sh
 #| tested on	
 #|  hardware	pi4
-#|  os			debian
+#|  os		debian
 
 #> why
 #| no ads on all network devices (:
@@ -96,4 +96,3 @@ echo -e "start 192.168.2.50\nend 192.168.2.250\ninterface wifi0\noption subnet 2
 
 #> vpn
 
-#| yes, I <3 regexs xD
