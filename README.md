@@ -12,6 +12,17 @@ type into linux terminal:
 cd /opt;git clone https://github.com/111tux/r0.sh;cd ./r0.sh;chmod +x ./r0.sh;./r0.sh
 ```
 
+***CUSTOM INSTALL***
+
+type into linux terminal:
+```bash
+cd /opt;git clone https://github.com/111tux/r0.sh;cd ./r0.sh;chmod +x ./r0.sh
+```
+now make your modifications in r0.sh and run:
+```bash
+./r0.sh
+```
+
 **Functionality**
 * a
 * b
