@@ -47,8 +47,8 @@
 #| 
 
 #> INSTALATION & RUN
-#| type into linux terminal:
-cd /opt;git clone https://github.com/111tux/r0.sh;cd ./r0.sh;chmod +x ./r0.sh;./r0.sh
+#| type into linux terminal (but of course without #|):
+#| cd /opt;git clone https://github.com/111tux/r0.sh;cd ./r0.sh;chmod +x ./r0.sh;./r0.sh
 
 #> GO GO GO!
 #| update,upgrade&install
