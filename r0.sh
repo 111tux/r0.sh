@@ -22,8 +22,8 @@
 #| debian is (free & opensource) software and will always be 100% free
 #| debian is the largest community-run linux distribution
 #| a lot of linux distributions are debian-based, eg ubuntu,kali,mint
-#| debian runs on nearly every processor archtecture, thus r0.sh runs on nearly every hardware
-#| ideal for servers, because it's extrem stable
+#| debian runs on nearly every processor architecture, thus r0.sh runs on nearly every hardware
+#| ideal for servers, because it's extreme stable
 #| debian names their versions after toy story names
 
 #> research
