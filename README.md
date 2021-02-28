@@ -26,7 +26,7 @@ https://raw.githubusercontent.com/111tux/r0.sh/main/r0.sh
 >```bash
 >rm /opt/r0.sh/.git
 >```
->because this mitigates an overwriting of your own r0.sh script
+>because this mitigates an overwriting of your modified r0.sh script
 
 **Functionality**
 * a
