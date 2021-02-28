@@ -22,7 +22,7 @@ https://raw.githubusercontent.com/111tux/r0.sh/main/r0.sh
 >```bash
 >./r0.sh
 >```
->>optional > delete .git file with:
+>optional > delete .git file with:
 >```bash
 >rm /opt/r0.sh/.git
 >```
