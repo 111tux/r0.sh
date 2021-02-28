@@ -18,7 +18,7 @@
 #| good project for starting with a more complex home network
 #| cheaper than commercial routers
 
-#| yes, now it's possible for me to read & manipulate all my network traffic,
+#| yes, now it's possible for me to capture all my network traffic,
 #| of course also the network traffic of people who uses my awesome ad-free WIFI.
 #| this is exactly the reason why outside the home network only end-to-end encrypted communication should be used.
 #| web communication
