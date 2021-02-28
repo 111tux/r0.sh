@@ -47,7 +47,7 @@
 #|  BIND9 as main DNS server
 #|  write (complete & secure) ssh cfg
 #|  performance benchmark; network speed optimization
-#|  display network information via 4-inch miuzei display / fast touch switch ad-free,wifi [on/off] mode
+#|  display network information via 4-inch miuzei display / fast touch switch ad-free,wifi,tor [on/off],shutdown mode
 #|  arp spoof detection
 
 #> THX
