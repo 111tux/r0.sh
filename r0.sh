@@ -116,3 +116,6 @@ echo -e "start 192.168.2.50\nend 192.168.2.250\ninterface wifi0\noption subnet 2
 
 #> vpn
 
+#> restarting services ??? or maybe reboot ???
+
+echo "r0.sh setup successfully completed"
