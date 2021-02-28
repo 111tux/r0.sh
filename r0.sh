@@ -18,6 +18,14 @@
 #| good project for starting with a more complex home network
 #| cheaper than commercial routers
 
+#| yes, now it's possible for me to read & manipulate all my network traffic,
+#| of course also the network traffic of the people who use my awesome ad-free WIFI.
+#| this is exactly the reason why outside the home network only end-to-end encrypted communication should be used.
+#| web communication
+#|  https; never use http outside of your home network! also not via mobile network, because otherwise can your isp or maybe some bad guys ;) read your data/traffic
+#| messenger
+#|  use messengers like signal,element or chat.onion ... and yes, telegram and whatsapp supports also end-to-end encryption mhpf ^^
+
 #> why debian
 #| debian is (free & opensource) software and will always be 100% free
 #| debian is the largest community-run linux distribution
