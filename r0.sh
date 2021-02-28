@@ -3,7 +3,7 @@
 #| name		r0.sh
 #| version      0.1 alpha
 #| author	111tux
-#| what		sh script for building own linux router
+#| what		sh script for building own linux router with a high requirement on network security on all ISO-OSI network layers
 #| howto run	chmod +x ./r0.sh;./r0.sh
 #| tested on	
 #|  hardware	pi4
