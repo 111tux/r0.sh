@@ -7,6 +7,8 @@ https://raw.githubusercontent.com/111tux/r0.sh/main/r0.sh
 
 >***QUICK INSTALL***
 >
+>[eth0 -> external gateway port; wifi0 -> local network interface]
+>
 >type/paste into linux terminal:
 >```bash
 >cd /opt;git clone https://github.com/111tux/r0.sh;cd ./r0.sh;chmod +x ./r0.sh;./r0.sh
