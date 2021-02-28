@@ -1,5 +1,5 @@
 # r0.sh
-sh script for building my own linux router with a high requirement on network security, on all ISO-OSI network layers
+sh script for building my own linux router with a high requirement on network security, on all [possible] ISO-OSI network layers
 
 https://raw.githubusercontent.com/111tux/r0.sh/main/r0.sh
 
